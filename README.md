@@ -1,2 +1,5 @@
 # hello-world
-Just another repo
+
+Hi Humans!
+
+Hubot here, I like Node.js and Coffestript
